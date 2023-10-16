@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: purple;
+    gap: 200px;
+    height: 100px;
+}
+nav h1{
+    color: white;
+}
+nav p{
+    color: whitesmoke;
+}
+nav a{
+    text-decoration: none;
+}
+nav div{
+    display: flex;
+    gap: 30px;
+}
